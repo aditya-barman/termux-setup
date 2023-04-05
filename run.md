@@ -1,4 +1,5 @@
-Order of running:
+# Order of running:
+
 1. initial.sh
 1. pkgs-install.zsh
 1. oh-my-zsh-setup.zsh

@@ -1,6 +1,14 @@
-# Termux Setup Scripts
+# Collection of commands for automating personalization of termux
 
-- zsh plugins
+**`Basic development environment setup`**
+
+- ALIASES
+- CATPPUCCIN THEMING
+- OH-MY-ZSH & POWERLEVEL10K
+- NVIM WITH NVCHAD THEME
+- BASIC FZF
+
+## **zsh plugins**
 
 1. zsh-syntax-highlighting
 1. zsh-autosuggestions
